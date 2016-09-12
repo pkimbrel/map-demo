@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -f raw/counties.json
+ogr2ogr -f GeoJSON raw/counties.json raw/gz_2010_us_050_00_5m/gz_2010_us_050_00_5m.shp
+

@@ -1,0 +1,461 @@
+{
+    "AK": {
+        "fips": "02",
+        "name": "Alaska",
+        "scale": 0.7,
+        "center": {
+            "latitude": 64,
+            "longitude": -155
+        }
+    },
+    "AL": {
+        "fips": "01",
+        "name": "Alabama",
+        "scale": 5.2,
+        "center": {
+            "latitude": 33.6,
+            "longitude": -86.9023
+        }
+    },
+    "AR": {
+        "fips": "05",
+        "name": "Arkansas",
+        "scale": 7,
+        "center": {
+            "latitude": 35.8,
+            "longitude": -92.3
+        }
+    },
+    "AZ": {
+        "fips": "04",
+        "name": "Arizona",
+        "scale": 4.5,
+        "center": {
+            "latitude": 35.2,
+            "longitude": -112.0937
+        }
+    },
+    "CA": {
+        "fips": "06",
+        "name": "California",
+        "scale": 2.5,
+        "center": {
+            "latitude": 38.4,
+            "longitude": -121
+        }
+    },
+    "CO": {
+        "fips": "08",
+        "name": "Colorado",
+        "scale": 5.6,
+        "center": {
+            "latitude": 40,
+            "longitude": -105.7821
+        }
+    },
+    "CT": {
+        "fips": "09",
+        "name": "Connecticut",
+        "scale": 19,
+        "center": {
+            "latitude": 42.5,
+            "longitude": -72.8
+        }
+    },
+    "DC": {
+        "fips": "11",
+        "name": "Washington, D.C.",
+        "scale": 110,
+        "center": {
+            "latitude": 39.895,
+            "longitude": -77.05
+        }
+    },
+    "DE": {
+        "fips": "10",
+        "name": "Delaware",
+        "scale": 16,
+        "center": {
+            "latitude": 40.14,
+            "longitude": -75.42
+        }
+    },
+    "FL": {
+        "fips": "12",
+        "name": "Florida",
+        "scale": 4,
+        "center": {
+            "latitude": 28.7,
+            "longitude": -84
+        }
+    },
+    "GA": {
+        "fips": "13",
+        "name": "Georgia",
+        "scale": 5.4,
+        "center": {
+            "latitude": 33.7,
+            "longitude": -83.9
+        }
+    },
+    "HI": {
+        "fips": "15",
+        "name": "Hawaii",
+        "scale": 8.5,
+        "center": {
+            "latitude": 21.6,
+            "longitude": -157.5
+        }
+    },
+    "IA": {
+        "fips": "19",
+        "name": "Iowa",
+        "scale": 7.1,
+        "center": {
+            "latitude": 42.95,
+            "longitude": -93.5
+        }
+    },
+    "ID": {
+        "fips": "16",
+        "name": "Idaho",
+        "scale": 3,
+        "center": {
+            "latitude": 46.52,
+            "longitude": -115
+        }
+    },
+    "IL": {
+        "fips": "17",
+        "name": "Illinois",
+        "scale": 4,
+        "center": {
+            "latitude": 40.8,
+            "longitude": -89.5
+        }
+    },
+    "IN": {
+        "fips": "18",
+        "name": "Indiana",
+        "scale": 5.5,
+        "center": {
+            "latitude": 40.75,
+            "longitude": -86.6
+        }
+    },
+    "KS": {
+        "fips": "20",
+        "name": "Kansas",
+        "scale": 7.2,
+        "center": {
+            "latitude": 39.5,
+            "longitude": -98.31
+        }
+    },
+    "KY": {
+        "fips": "21",
+        "name": "Kentucky",
+        "scale": 7.2,
+        "center": {
+            "latitude": 38.7,
+            "longitude": -85.75
+        }
+    },
+    "LA": {
+        "fips": "22",
+        "name": "Louisiana",
+        "scale": 6,
+        "center": {
+            "latitude": 32,
+            "longitude": -92
+        }
+    },
+    "MA": {
+        "fips": "25",
+        "name": "Massachusetts",
+        "scale": 13,
+        "center": {
+            "latitude": 43.03,
+            "longitude": -71.6
+        }
+    },
+    "MD": {
+        "fips": "24",
+        "name": "Maryland",
+        "scale": 12,
+        "center": {
+            "latitude": 39.8,
+            "longitude": -77.21
+        }
+    },
+    "ME": {
+        "fips": "23",
+        "name": "Maine",
+        "scale": 4.6,
+        "center": {
+            "latitude": 46.2,
+            "longitude": -69.4455
+        }
+    },
+    "MI": {
+        "fips": "26",
+        "name": "Michigan",
+        "scale": 3.1,
+        "center": {
+            "latitude": 46,
+            "longitude": -86.5
+        }
+    },
+    "MN": {
+        "fips": "27",
+        "name": "Minnesota",
+        "scale": 3.6,
+        "center": {
+            "latitude": 47.5,
+            "longitude": -94
+        }
+    },
+    "MO": {
+        "fips": "29",
+        "name": "Missouri",
+        "scale": 5.1,
+        "center": {
+            "latitude": 39.32,
+            "longitude": -92.5
+        }
+    },
+    "MS": {
+        "fips": "28",
+        "name": "Mississippi",
+        "scale": 5.2,
+        "center": {
+            "latitude": 33.6,
+            "longitude": -90
+        }
+    },
+    "MT": {
+        "fips": "30",
+        "name": "Montana",
+        "scale": 4.2,
+        "center": {
+            "latitude": 47.7,
+            "longitude": -110
+        }
+    },
+    "NC": {
+        "fips": "37",
+        "name": "North Carolina",
+        "scale": 6.2,
+        "center": {
+            "latitude": 36.2,
+            "longitude": -79.85
+        }
+    },
+    "ND": {
+        "fips": "38",
+        "name": "North Dakota",
+        "scale": 6,
+        "center": {
+            "latitude": 48.5,
+            "longitude": -100.4
+        }
+    },
+    "NE": {
+        "fips": "31",
+        "name": "Nebraska",
+        "scale": 6.3,
+        "center": {
+            "latitude": 42.5,
+            "longitude": -99.7
+        }
+    },
+    "NH": {
+        "fips": "33",
+        "name": "New Hampshire",
+        "scale": 8,
+        "center": {
+            "latitude": 45,
+            "longitude": -71.7
+        }
+    },
+    "NJ": {
+        "fips": "34",
+        "name": "New Jersey",
+        "scale": 8.6,
+        "center": {
+            "latitude": 41.05,
+            "longitude": -74.8
+        }
+    },
+    "NM": {
+        "fips": "35",
+        "name": "New Mexico",
+        "scale": 4.3,
+        "center": {
+            "latitude": 35.2,
+            "longitude": -106.5
+        }
+    },
+    "NV": {
+        "fips": "32",
+        "name": "Nevada",
+        "scale": 3.3,
+        "center": {
+            "latitude": 39.55,
+            "longitude": -117
+        }
+    },
+    "NY": {
+        "fips": "36",
+        "name": "New York",
+        "scale": 4.8,
+        "center": {
+            "latitude": 43.8,
+            "longitude": -76
+        }
+    },
+    "OH": {
+        "fips": "39",
+        "name": "Ohio",
+        "scale": 5.5,
+        "center": {
+            "latitude": 41.3,
+            "longitude": -83
+        }
+    },
+    "OK": {
+        "fips": "40",
+        "name": "Oklahoma",
+        "scale": 6.3,
+        "center": {
+            "latitude": 36.5,
+            "longitude": -98.7
+        }
+    },
+    "OR": {
+        "fips": "41",
+        "name": "Oregon",
+        "scale": 5,
+        "center": {
+            "latitude": 45.15,
+            "longitude": -120.5
+        }
+    },
+    "PA": {
+        "fips": "42",
+        "name": "Pennsylvania",
+        "scale": 8,
+        "center": {
+            "latitude": 42.1,
+            "longitude": -77.6
+        }
+    },
+    "RI": {
+        "fips": "44",
+        "name": "Rhode Island",
+        "scale": 24,
+        "center": {
+            "latitude": 42.55,
+            "longitude": -71.6
+        }
+    },
+    "SC": {
+        "fips": "45",
+        "name": "South Carolina",
+        "scale": 7.3,
+        "center": {
+            "latitude": 34.6,
+            "longitude": -81.2
+        }
+    },
+    "SD": {
+        "fips": "46",
+        "name": "South Dakota",
+        "scale": 6,
+        "center": {
+            "latitude": 45.3,
+            "longitude": -100.2
+        }
+    },
+    "TN": {
+        "fips": "47",
+        "name": "Tennessee",
+        "scale": 6.3,
+        "center": {
+            "latitude": 36.8,
+            "longitude": -86
+        }
+    },
+    "TX": {
+        "fips": "48",
+        "name": "Texas",
+        "scale": 2.5,
+        "center": {
+            "latitude": 32.3,
+            "longitude": -99.9
+        }
+    },
+    "UT": {
+        "fips": "49",
+        "name": "Utah",
+        "scale": 4.5,
+        "center": {
+            "latitude": 40.5,
+            "longitude": -112
+        }
+    },
+    "VA": {
+        "fips": "51",
+        "name": "Virginia",
+        "scale": 6.5,
+        "center": {
+            "latitude": 38.9,
+            "longitude": -79.4
+        }
+    },
+    "VT": {
+        "fips": "50",
+        "name": "Vermont",
+        "scale": 9,
+        "center": {
+            "latitude": 44.9,
+            "longitude": -72.6
+        }
+    },
+    "WA": {
+        "fips": "53",
+        "name": "Washington",
+        "scale": 5.9,
+        "center": {
+            "latitude": 48.3,
+            "longitude": -120.8
+        }
+    },
+    "WI": {
+        "fips": "55",
+        "name": "Wisconsin",
+        "scale": 4.45,
+        "center": {
+            "latitude": 45.9,
+            "longitude": -90
+        }
+    },
+    "WV": {
+        "fips": "54",
+        "name": "West Virginia",
+        "scale": 6.7,
+        "center": {
+            "latitude": 39.9,
+            "longitude": -80.2
+        }
+    },
+    "WY": {
+        "fips": "56",
+        "name": "Wyoming",
+        "scale": 5.5,
+        "center": {
+            "latitude": 44,
+            "longitude": -107.2
+        }
+    }
+}

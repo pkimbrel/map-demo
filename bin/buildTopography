@@ -1,0 +1,3 @@
+#!/bin/sh
+
+topojson --id-property NAME -p name=NAME -p geoid=GEOID -o public/data/topology/counties.topo.json raw/counties.json

@@ -1,0 +1,48 @@
+#!/Users/pkimbrel/.nvm/versions/node/v6.2.1/bin/node
+
+var fs = require('fs');
+var _ = require('underscore');
+
+var stateData = JSON.parse(fs.readFileSync('public/data/states.info.json', 'utf8'));
+var countyData = JSON.parse(fs.readFileSync('raw/geojson/counties.json', 'utf8'));
+
+var fipsLookup = {};
+var statePopluationData = {};
+
+_.each(stateData, function (state) {
+    fipsLookup[state.fips] = state.abbr;
+});
+console.log(fipsLookup);
+
+var countyPopluationData = {};
+_.each(countyPopluationData.features, function (county) {
+    var population = county.properties.DP0010001;
+
+    var fillKey = "pop1";
+
+    if (population >= 4000000) {
+        fillKey = "pop10";
+    } else if (population >= 1000000) {
+        fillKey = "pop9";
+    } else if (population >= 800000) {
+        fillKey = "pop8";
+    } else if (population >= 600000) {
+        fillKey = "pop7";
+    } else if (population >= 400000) {
+        fillKey = "pop6";
+    } else if (population >= 100000) {
+        fillKey = "pop5";
+    } else if (population >= 50000) {
+        fillKey = "pop4";
+    } else if (population >= 20000) {
+        fillKey = "pop3";
+    } else if (population >= 10000) {
+        fillKey = "pop2";
+    }
+    data[county.properties.GEOID10] = {
+        "population": population,
+        "fillKey": fillKey
+    };
+});
+
+fs.writeFileSync('public/data/counties.population.json', JSON.stringify(data, null, 4), 'utf8');
