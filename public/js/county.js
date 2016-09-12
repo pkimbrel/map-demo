@@ -44,7 +44,7 @@ $.get('/data/counties.population.json', function (population) {
                 borderColor: '#444',
                 popupTemplate: function(geography, data) {
                     return '<div class="hoverinfo" style="text-align: center"><strong>' + geography.properties.name + '</strong><br>Population: ' + numberWithCommas(data.population) + '</div>';
-                },
+                }
             },
             fills: fills,
             data: population,

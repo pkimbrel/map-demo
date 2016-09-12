@@ -7,16 +7,25 @@ var stateData = JSON.parse(fs.readFileSync('public/data/states.info.json', 'utf8
 var countyData = JSON.parse(fs.readFileSync('raw/geojson/counties.json', 'utf8'));
 
 var fipsLookup = {};
-var statePopluationData = {};
+var statePopluationData = stateData;
 
-_.each(stateData, function (state) {
-    fipsLookup[state.fips] = state.abbr;
+_.each(stateData, function (state, key) {
+    fipsLookup[state.fips] = key;
 });
-console.log(fipsLookup);
 
 var countyPopluationData = {};
-_.each(countyPopluationData.features, function (county) {
+_.each(countyData.features, function (county) {
     var population = county.properties.DP0010001;
+
+    var state = fipsLookup[county.properties.GEOID10.substr(0,2)];
+    
+    if (state !== undefined) {
+        if (statePopluationData[state].population === undefined) {
+            statePopluationData[state].population = population;
+        } else {
+            statePopluationData[state].population += population;
+        }
+    }
 
     var fillKey = "pop1";
 
@@ -39,10 +48,38 @@ _.each(countyPopluationData.features, function (county) {
     } else if (population >= 10000) {
         fillKey = "pop2";
     }
-    data[county.properties.GEOID10] = {
+    countyPopluationData[county.properties.GEOID10] = {
         "population": population,
         "fillKey": fillKey
     };
 });
 
-fs.writeFileSync('public/data/counties.population.json', JSON.stringify(data, null, 4), 'utf8');
+_.each(statePopluationData, function (state) {
+    var fillKey = "pop1";
+
+    if (state.population >= 25000000) {
+        fillKey = "pop10";
+    } else if (state.population >= 20000000) {
+        fillKey = "pop9";
+    } else if (state.population >= 10000000) {
+        fillKey = "pop8";
+    } else if (state.population >= 5000000) {
+        fillKey = "pop7";
+    } else if (state.population >= 4000000) {
+        fillKey = "pop6";
+    } else if (state.population >= 3000000) {
+        fillKey = "pop5";
+    } else if (state.population >= 2000000) {
+        fillKey = "pop4";
+    } else if (state.population >= 1000000) {
+        fillKey = "pop3";
+    } else if (state.population >= 500000) {
+        fillKey = "pop2";
+    }
+
+    state.fillKey = fillKey;
+});
+
+fs.writeFileSync('public/data/counties.population.json', JSON.stringify(countyPopluationData, null, 4), 'utf8');
+fs.writeFileSync('public/data/state.population.json', JSON.stringify(statePopluationData, null, 4), 'utf8');
+
