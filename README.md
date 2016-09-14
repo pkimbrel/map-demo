@@ -40,3 +40,25 @@ Filter/Reduce the Topography Data
 ---------------------------------
 
 `bin/reduceTopography`
+
+What gets created?
+------------------
+
+Well, a bunch of raw "geojson" data gets generated under `raw/geojson`.  That's
+temporary stuff.  You can nuke it.
+
+The displayable stuff ends up in `public/data`:
+
+~~~~
+public/data/states.population.json - State population data
+public/data/counties.population.json - County population data
+public/data/counties - Topology data for the counties per states
+~~~~
+
+There is one special file:
+
+~~~~
+public/data/states.info.json
+~~~~
+
+That was a lovingly handcrafted state file.  I need to find a way to generate this.
