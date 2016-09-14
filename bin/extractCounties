@@ -21,7 +21,7 @@ exec("ogr2ogr -f GeoJSON raw/geojson/counties.demographics.json raw/data/" + dat
 // For each state, extract the county shapes
 var stateData = JSON.parse(fs.readFileSync('public/data/states.info.json', 'utf8'));
 _.each(stateData, function(data, state) {
-    exec("ogr2ogr -f GeoJSON -where \"STATEFP like ('" + data.fips + "')\" raw/geojson/counties/" + state + ".json raw/shapes/" + shapeSource + "/" + shapeSource + ".shp", function(error, stdout, stderr) {
+    exec("ogr2ogr -f GeoJSON -where \"STATEFP like ('" + data.fips + "')\" raw/geojson/counties/" + state + ".json raw/data/" + shapeSource + "/" + shapeSource + ".shp", function(error, stdout, stderr) {
         if (error) console.log(error);
         process.stdout.write(stdout);
         process.stderr.write(stderr);
