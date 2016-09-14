@@ -13,11 +13,11 @@ lake bounderies.  And it doesn't have a decent mapping between states and counti
 Fortunately, the county boundries can also be downloaded separately.
 
 Census data:<br>
-https://www2.census.gov/geo/tiger/TIGER2010DP1/
+https://www2.census.gov/geo/tiger/TIGER2010DP1/<br>
 County_2010Census_DP1.zip
 
 Topology data:<br>
-https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
+https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
 cb_2015_us_county_5m.zip
 
 Download those files to "raw/data" and unzip them there.
