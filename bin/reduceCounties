@@ -1,0 +1,56 @@
+#!/Users/pkimbrel/.nvm/versions/node/v6.2.1/bin/node
+
+var fs = require('fs');
+var _ = require('underscore');
+
+var stateData = JSON.parse(fs.readFileSync('public/data/states.info.json', 'utf8'));
+var countyData = JSON.parse(fs.readFileSync('raw/geojson/counties.demographics.json', 'utf8'));
+
+// Build a reverse FIPS lookup table (to help find the state from a FIPS number)
+var fipsLookup = {};
+_.each(stateData, function (state, key) {
+    fipsLookup[state.fips] = key;
+});
+
+// I'm lazy, so starting with the lovingly handcrafted state data
+// which follows the necessary data format.  From there I simply add
+// the population data along side the FIPS, center point, and zoom level.
+
+// The county level is a straight mapping.  Start with an empty list.
+var statePopluationData = stateData;
+var countyPopluationData = {};
+
+// Go through each county in the demographics file.  Government data is a hoot.
+
+// It doesn't get organized by state.  That would make WAY too much sense.
+// No it's organized by county - across ALL the United States.  And is there's
+// a state ID?  No - again that would be HELPFUL!  But... each county has a GEOID
+// which has the state ID encoded into the first characters of the ID.  Awesome.
+_.each(countyData.features, function (county) {
+    // County population is DP0010001.  Because why wouldn't it be?
+    var population = county.properties.DP0010001;
+
+    // GEOID has the state ID in the first two character
+    var state = fipsLookup[county.properties.GEOID10.substr(0,2)];
+    
+    // Don't care about the Virgin Islands or Puerto Rico, etc.
+    if (state !== undefined) {
+        if (statePopluationData[state].population === undefined) {
+            // First population found?
+            // Make it the state popluation for now
+            statePopluationData[state].population = population;
+        } else {
+            // Not the first?
+            // Add it to the existing population
+            statePopluationData[state].population += population;
+        }
+    }
+
+    countyPopluationData[county.properties.GEOID10] = {
+        "population": population,
+    };
+});
+
+fs.writeFileSync('public/data/counties.population.json', JSON.stringify(countyPopluationData, null, 4), 'utf8');
+fs.writeFileSync('public/data/state.population.json', JSON.stringify(statePopluationData, null, 4), 'utf8');
+

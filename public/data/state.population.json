@@ -7,8 +7,7 @@
             "latitude": 64,
             "longitude": -155
         },
-        "population": 710231,
-        "fillKey": "pop2"
+        "population": 710231
     },
     "AL": {
         "fips": "01",
@@ -18,8 +17,7 @@
             "latitude": 33.6,
             "longitude": -86.9023
         },
-        "population": 4779736,
-        "fillKey": "pop6"
+        "population": 4779736
     },
     "AR": {
         "fips": "05",
@@ -29,8 +27,7 @@
             "latitude": 35.8,
             "longitude": -92.3
         },
-        "population": 2915918,
-        "fillKey": "pop4"
+        "population": 2915918
     },
     "AZ": {
         "fips": "04",
@@ -40,8 +37,7 @@
             "latitude": 35.2,
             "longitude": -112.0937
         },
-        "population": 6392017,
-        "fillKey": "pop7"
+        "population": 6392017
     },
     "CA": {
         "fips": "06",
@@ -51,8 +47,7 @@
             "latitude": 38.4,
             "longitude": -121
         },
-        "population": 37253956,
-        "fillKey": "pop10"
+        "population": 37253956
     },
     "CO": {
         "fips": "08",
@@ -62,8 +57,7 @@
             "latitude": 40,
             "longitude": -105.7821
         },
-        "population": 5029196,
-        "fillKey": "pop7"
+        "population": 5029196
     },
     "CT": {
         "fips": "09",
@@ -73,8 +67,7 @@
             "latitude": 42.5,
             "longitude": -72.8
         },
-        "population": 3574097,
-        "fillKey": "pop5"
+        "population": 3574097
     },
     "DC": {
         "fips": "11",
@@ -84,8 +77,7 @@
             "latitude": 39.895,
             "longitude": -77.05
         },
-        "population": 601723,
-        "fillKey": "pop2"
+        "population": 601723
     },
     "DE": {
         "fips": "10",
@@ -95,8 +87,7 @@
             "latitude": 40.14,
             "longitude": -75.42
         },
-        "population": 897934,
-        "fillKey": "pop2"
+        "population": 897934
     },
     "FL": {
         "fips": "12",
@@ -106,8 +97,7 @@
             "latitude": 28.7,
             "longitude": -84
         },
-        "population": 18801310,
-        "fillKey": "pop8"
+        "population": 18801310
     },
     "GA": {
         "fips": "13",
@@ -117,8 +107,7 @@
             "latitude": 33.7,
             "longitude": -83.9
         },
-        "population": 9687653,
-        "fillKey": "pop7"
+        "population": 9687653
     },
     "HI": {
         "fips": "15",
@@ -128,8 +117,7 @@
             "latitude": 21.6,
             "longitude": -157.5
         },
-        "population": 1360301,
-        "fillKey": "pop3"
+        "population": 1360301
     },
     "IA": {
         "fips": "19",
@@ -139,8 +127,7 @@
             "latitude": 42.95,
             "longitude": -93.5
         },
-        "population": 3046355,
-        "fillKey": "pop5"
+        "population": 3046355
     },
     "ID": {
         "fips": "16",
@@ -150,8 +137,7 @@
             "latitude": 46.52,
             "longitude": -115
         },
-        "population": 1567582,
-        "fillKey": "pop3"
+        "population": 1567582
     },
     "IL": {
         "fips": "17",
@@ -161,8 +147,7 @@
             "latitude": 40.8,
             "longitude": -89.5
         },
-        "population": 12830632,
-        "fillKey": "pop8"
+        "population": 12830632
     },
     "IN": {
         "fips": "18",
@@ -172,8 +157,7 @@
             "latitude": 40.75,
             "longitude": -86.6
         },
-        "population": 6483802,
-        "fillKey": "pop7"
+        "population": 6483802
     },
     "KS": {
         "fips": "20",
@@ -183,8 +167,7 @@
             "latitude": 39.5,
             "longitude": -98.31
         },
-        "population": 2853118,
-        "fillKey": "pop4"
+        "population": 2853118
     },
     "KY": {
         "fips": "21",
@@ -194,8 +177,7 @@
             "latitude": 38.7,
             "longitude": -85.75
         },
-        "population": 4339367,
-        "fillKey": "pop6"
+        "population": 4339367
     },
     "LA": {
         "fips": "22",
@@ -205,8 +187,7 @@
             "latitude": 32,
             "longitude": -92
         },
-        "population": 4533372,
-        "fillKey": "pop6"
+        "population": 4533372
     },
     "MA": {
         "fips": "25",
@@ -216,8 +197,7 @@
             "latitude": 43.03,
             "longitude": -71.6
         },
-        "population": 6547629,
-        "fillKey": "pop7"
+        "population": 6547629
     },
     "MD": {
         "fips": "24",
@@ -227,8 +207,7 @@
             "latitude": 39.8,
             "longitude": -77.21
         },
-        "population": 5773552,
-        "fillKey": "pop7"
+        "population": 5773552
     },
     "ME": {
         "fips": "23",
@@ -238,8 +217,7 @@
             "latitude": 46.2,
             "longitude": -69.4455
         },
-        "population": 1328361,
-        "fillKey": "pop3"
+        "population": 1328361
     },
     "MI": {
         "fips": "26",
@@ -249,8 +227,7 @@
             "latitude": 46,
             "longitude": -86.5
         },
-        "population": 9883640,
-        "fillKey": "pop7"
+        "population": 9883640
     },
     "MN": {
         "fips": "27",
@@ -260,8 +237,7 @@
             "latitude": 47.5,
             "longitude": -94
         },
-        "population": 5303925,
-        "fillKey": "pop7"
+        "population": 5303925
     },
     "MO": {
         "fips": "29",
@@ -271,8 +247,7 @@
             "latitude": 39.32,
             "longitude": -92.5
         },
-        "population": 5988927,
-        "fillKey": "pop7"
+        "population": 5988927
     },
     "MS": {
         "fips": "28",
@@ -282,8 +257,7 @@
             "latitude": 33.6,
             "longitude": -90
         },
-        "population": 2967297,
-        "fillKey": "pop4"
+        "population": 2967297
     },
     "MT": {
         "fips": "30",
@@ -293,8 +267,7 @@
             "latitude": 47.7,
             "longitude": -110
         },
-        "population": 989415,
-        "fillKey": "pop2"
+        "population": 989415
     },
     "NC": {
         "fips": "37",
@@ -304,8 +277,7 @@
             "latitude": 36.2,
             "longitude": -79.85
         },
-        "population": 9535483,
-        "fillKey": "pop7"
+        "population": 9535483
     },
     "ND": {
         "fips": "38",
@@ -315,8 +287,7 @@
             "latitude": 48.5,
             "longitude": -100.4
         },
-        "population": 672591,
-        "fillKey": "pop2"
+        "population": 672591
     },
     "NE": {
         "fips": "31",
@@ -326,8 +297,7 @@
             "latitude": 42.5,
             "longitude": -99.7
         },
-        "population": 1826341,
-        "fillKey": "pop3"
+        "population": 1826341
     },
     "NH": {
         "fips": "33",
@@ -337,8 +307,7 @@
             "latitude": 45,
             "longitude": -71.7
         },
-        "population": 1316470,
-        "fillKey": "pop3"
+        "population": 1316470
     },
     "NJ": {
         "fips": "34",
@@ -348,8 +317,7 @@
             "latitude": 41.05,
             "longitude": -74.8
         },
-        "population": 8791894,
-        "fillKey": "pop7"
+        "population": 8791894
     },
     "NM": {
         "fips": "35",
@@ -359,8 +327,7 @@
             "latitude": 35.2,
             "longitude": -106.5
         },
-        "population": 2059179,
-        "fillKey": "pop4"
+        "population": 2059179
     },
     "NV": {
         "fips": "32",
@@ -370,8 +337,7 @@
             "latitude": 39.55,
             "longitude": -117
         },
-        "population": 2700551,
-        "fillKey": "pop4"
+        "population": 2700551
     },
     "NY": {
         "fips": "36",
@@ -381,8 +347,7 @@
             "latitude": 43.8,
             "longitude": -76
         },
-        "population": 19378102,
-        "fillKey": "pop8"
+        "population": 19378102
     },
     "OH": {
         "fips": "39",
@@ -392,8 +357,7 @@
             "latitude": 41.3,
             "longitude": -83
         },
-        "population": 11536504,
-        "fillKey": "pop8"
+        "population": 11536504
     },
     "OK": {
         "fips": "40",
@@ -403,8 +367,7 @@
             "latitude": 36.5,
             "longitude": -98.7
         },
-        "population": 3751351,
-        "fillKey": "pop5"
+        "population": 3751351
     },
     "OR": {
         "fips": "41",
@@ -414,8 +377,7 @@
             "latitude": 45.15,
             "longitude": -120.5
         },
-        "population": 3831074,
-        "fillKey": "pop5"
+        "population": 3831074
     },
     "PA": {
         "fips": "42",
@@ -425,8 +387,7 @@
             "latitude": 42.1,
             "longitude": -77.6
         },
-        "population": 12702379,
-        "fillKey": "pop8"
+        "population": 12702379
     },
     "RI": {
         "fips": "44",
@@ -436,8 +397,7 @@
             "latitude": 42.55,
             "longitude": -71.6
         },
-        "population": 1052567,
-        "fillKey": "pop3"
+        "population": 1052567
     },
     "SC": {
         "fips": "45",
@@ -447,8 +407,7 @@
             "latitude": 34.6,
             "longitude": -81.2
         },
-        "population": 4625364,
-        "fillKey": "pop6"
+        "population": 4625364
     },
     "SD": {
         "fips": "46",
@@ -458,8 +417,7 @@
             "latitude": 45.3,
             "longitude": -100.2
         },
-        "population": 814180,
-        "fillKey": "pop2"
+        "population": 814180
     },
     "TN": {
         "fips": "47",
@@ -469,8 +427,7 @@
             "latitude": 36.8,
             "longitude": -86
         },
-        "population": 6346105,
-        "fillKey": "pop7"
+        "population": 6346105
     },
     "TX": {
         "fips": "48",
@@ -480,8 +437,7 @@
             "latitude": 32.3,
             "longitude": -99.9
         },
-        "population": 25145561,
-        "fillKey": "pop10"
+        "population": 25145561
     },
     "UT": {
         "fips": "49",
@@ -491,8 +447,7 @@
             "latitude": 40.5,
             "longitude": -112
         },
-        "population": 2763885,
-        "fillKey": "pop4"
+        "population": 2763885
     },
     "VA": {
         "fips": "51",
@@ -502,8 +457,7 @@
             "latitude": 38.9,
             "longitude": -79.4
         },
-        "population": 8001024,
-        "fillKey": "pop7"
+        "population": 8001024
     },
     "VT": {
         "fips": "50",
@@ -513,8 +467,7 @@
             "latitude": 44.9,
             "longitude": -72.6
         },
-        "population": 625741,
-        "fillKey": "pop2"
+        "population": 625741
     },
     "WA": {
         "fips": "53",
@@ -524,8 +477,7 @@
             "latitude": 48.3,
             "longitude": -120.8
         },
-        "population": 6724540,
-        "fillKey": "pop7"
+        "population": 6724540
     },
     "WI": {
         "fips": "55",
@@ -535,8 +487,7 @@
             "latitude": 45.9,
             "longitude": -90
         },
-        "population": 5686986,
-        "fillKey": "pop7"
+        "population": 5686986
     },
     "WV": {
         "fips": "54",
@@ -546,8 +497,7 @@
             "latitude": 39.9,
             "longitude": -80.2
         },
-        "population": 1852994,
-        "fillKey": "pop3"
+        "population": 1852994
     },
     "WY": {
         "fips": "56",
@@ -557,7 +507,6 @@
             "latitude": 44,
             "longitude": -107.2
         },
-        "population": 563626,
-        "fillKey": "pop2"
+        "population": 563626
     }
 }

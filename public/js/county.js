@@ -1,35 +1,35 @@
-(function($) {
-    $.QueryString = (function(a) {
-        if (a == "") return {};
-        var b = {};
-        for (var i = 0; i < a.length; ++i)
-        {
-            var p=a[i].split('=', 2);
-            if (p.length != 2) continue;
-            b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
-        }
-        return b;
-    })(window.location.search.substr(1).split('&'))
-})(jQuery);
+// Convert population to fillKey (found in the app.js)
+function getFillKey(population) {
+    var fillKey = "pop1";
+    if (population >= 4000000) {
+        fillKey = "pop10";
+    } else if (population >= 1000000) {
+        fillKey = "pop9";
+    } else if (population >= 800000) {
+        fillKey = "pop8";
+    } else if (population >= 600000) {
+        fillKey = "pop7";
+    } else if (population >= 400000) {
+        fillKey = "pop6";
+    } else if (population >= 100000) {
+        fillKey = "pop5";
+    } else if (population >= 50000) {
+        fillKey = "pop4";
+    } else if (population >= 20000) {
+        fillKey = "pop3";
+    } else if (population >= 10000) {
+        fillKey = "pop2";
+    }
 
-var fills = {
-    'pop1': '#EDFED2',
-    'pop2': '#FDFCBC',
-    'pop3': '#F5FBA6',
-    'pop4': '#FAF191',
-    'pop5': '#F9DB7C',
-    'pop6': '#F8BE67',
-    'pop7': '#F79C52',
-    'pop8': '#F6633D',
-    'pop9': '#F54429',
-    'pop10': '#F4151A'
-};
-
-function numberWithCommas(x) {
-    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return fillKey;
 }
 
 $.get('/data/counties.population.json', function (population) {
+    for (county in population) {
+        // Add fillKey because that's visual data
+        population[county].fillKey = getFillKey(population[county].population);
+    }
+
     $.get("/data/states.info.json", function(stateData) {
         var state = $.QueryString.state;
         var stateInfo = stateData[state];
