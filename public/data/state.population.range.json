@@ -1,0 +1,2166 @@
+{
+    "2000": {
+        "AL": {
+            "population": "4452173"
+        },
+        "AK": {
+            "population": "627963"
+        },
+        "AZ": {
+            "population": "5160586"
+        },
+        "AR": {
+            "population": "2678588"
+        },
+        "CA": {
+            "population": "33987977"
+        },
+        "CO": {
+            "population": "4326921"
+        },
+        "CT": {
+            "population": "3411777"
+        },
+        "DE": {
+            "population": "786373"
+        },
+        "DC": {
+            "population": "572046"
+        },
+        "FL": {
+            "population": "16047515"
+        },
+        "GA": {
+            "population": "8227303"
+        },
+        "HI": {
+            "population": "1213519"
+        },
+        "ID": {
+            "population": "1299430"
+        },
+        "IL": {
+            "population": "12434161"
+        },
+        "IN": {
+            "population": "6091866"
+        },
+        "IA": {
+            "population": "2929067"
+        },
+        "KS": {
+            "population": "2693681"
+        },
+        "KY": {
+            "population": "4049021"
+        },
+        "LA": {
+            "population": "4471885"
+        },
+        "ME": {
+            "population": "1277072"
+        },
+        "MD": {
+            "population": "5311034"
+        },
+        "MA": {
+            "population": "6361104"
+        },
+        "MI": {
+            "population": "9952450"
+        },
+        "MN": {
+            "population": "4933692"
+        },
+        "MS": {
+            "population": "2848353"
+        },
+        "MO": {
+            "population": "5607285"
+        },
+        "MT": {
+            "population": "903773"
+        },
+        "NE": {
+            "population": "1713820"
+        },
+        "NV": {
+            "population": "2018741"
+        },
+        "NH": {
+            "population": "1239882"
+        },
+        "NJ": {
+            "population": "8430621"
+        },
+        "NM": {
+            "population": "1821204"
+        },
+        "NY": {
+            "population": "19001780"
+        },
+        "NC": {
+            "population": "8081614"
+        },
+        "ND": {
+            "population": "642023"
+        },
+        "OH": {
+            "population": "11363543"
+        },
+        "OK": {
+            "population": "3454365"
+        },
+        "OR": {
+            "population": "3429708"
+        },
+        "PA": {
+            "population": "12284173"
+        },
+        "RI": {
+            "population": "1050268"
+        },
+        "SC": {
+            "population": "4024223"
+        },
+        "SD": {
+            "population": "755844"
+        },
+        "TN": {
+            "population": "5703719"
+        },
+        "TX": {
+            "population": "20944499"
+        },
+        "UT": {
+            "population": "2244502"
+        },
+        "VT": {
+            "population": "609618"
+        },
+        "VA": {
+            "population": "7105817"
+        },
+        "WA": {
+            "population": "5910512"
+        },
+        "WV": {
+            "population": "1807021"
+        },
+        "WI": {
+            "population": "5373999"
+        },
+        "WY": {
+            "population": "494300"
+        }
+    },
+    "2001": {
+        "AL": {
+            "population": "4467634"
+        },
+        "AK": {
+            "population": "633714"
+        },
+        "AZ": {
+            "population": "5273477"
+        },
+        "AR": {
+            "population": "2691571"
+        },
+        "CA": {
+            "population": "34479458"
+        },
+        "CO": {
+            "population": "4425687"
+        },
+        "CT": {
+            "population": "3432835"
+        },
+        "DE": {
+            "population": "795699"
+        },
+        "DC": {
+            "population": "574504"
+        },
+        "FL": {
+            "population": "16356966"
+        },
+        "GA": {
+            "population": "8377038"
+        },
+        "HI": {
+            "population": "1225948"
+        },
+        "ID": {
+            "population": "1319962"
+        },
+        "IL": {
+            "population": "12488445"
+        },
+        "IN": {
+            "population": "6127760"
+        },
+        "IA": {
+            "population": "2931997"
+        },
+        "KS": {
+            "population": "2702162"
+        },
+        "KY": {
+            "population": "4068132"
+        },
+        "LA": {
+            "population": "4477875"
+        },
+        "ME": {
+            "population": "1285692"
+        },
+        "MD": {
+            "population": "5374691"
+        },
+        "MA": {
+            "population": "6397634"
+        },
+        "MI": {
+            "population": "9991120"
+        },
+        "MN": {
+            "population": "4982796"
+        },
+        "MS": {
+            "population": "2852994"
+        },
+        "MO": {
+            "population": "5641142"
+        },
+        "MT": {
+            "population": "906961"
+        },
+        "NE": {
+            "population": "1719836"
+        },
+        "NV": {
+            "population": "2098399"
+        },
+        "NH": {
+            "population": "1255517"
+        },
+        "NJ": {
+            "population": "8492671"
+        },
+        "NM": {
+            "population": "1831690"
+        },
+        "NY": {
+            "population": "19082838"
+        },
+        "NC": {
+            "population": "8210122"
+        },
+        "ND": {
+            "population": "639062"
+        },
+        "OH": {
+            "population": "11387404"
+        },
+        "OK": {
+            "population": "3467100"
+        },
+        "OR": {
+            "population": "3467937"
+        },
+        "PA": {
+            "population": "12298970"
+        },
+        "RI": {
+            "population": "1057142"
+        },
+        "SC": {
+            "population": "4064995"
+        },
+        "SD": {
+            "population": "757972"
+        },
+        "TN": {
+            "population": "5750789"
+        },
+        "TX": {
+            "population": "21319622"
+        },
+        "UT": {
+            "population": "2283715"
+        },
+        "VT": {
+            "population": "612223"
+        },
+        "VA": {
+            "population": "7198362"
+        },
+        "WA": {
+            "population": "5985722"
+        },
+        "WV": {
+            "population": "1801481"
+        },
+        "WI": {
+            "population": "5406835"
+        },
+        "WY": {
+            "population": "494657"
+        }
+    },
+    "2002": {
+        "AL": {
+            "population": "4480089"
+        },
+        "AK": {
+            "population": "642337"
+        },
+        "AZ": {
+            "population": "5396255"
+        },
+        "AR": {
+            "population": "2705927"
+        },
+        "CA": {
+            "population": "34871843"
+        },
+        "CO": {
+            "population": "4490406"
+        },
+        "CT": {
+            "population": "3458749"
+        },
+        "DE": {
+            "population": "806169"
+        },
+        "DC": {
+            "population": "573158"
+        },
+        "FL": {
+            "population": "16689370"
+        },
+        "GA": {
+            "population": "8508256"
+        },
+        "HI": {
+            "population": "1239613"
+        },
+        "ID": {
+            "population": "1340372"
+        },
+        "IL": {
+            "population": "12525556"
+        },
+        "IN": {
+            "population": "6155967"
+        },
+        "IA": {
+            "population": "2934234"
+        },
+        "KS": {
+            "population": "2713535"
+        },
+        "KY": {
+            "population": "4089875"
+        },
+        "LA": {
+            "population": "4497267"
+        },
+        "ME": {
+            "population": "1295960"
+        },
+        "MD": {
+            "population": "5440389"
+        },
+        "MA": {
+            "population": "6417206"
+        },
+        "MI": {
+            "population": "10015710"
+        },
+        "MN": {
+            "population": "5018935"
+        },
+        "MS": {
+            "population": "2858681"
+        },
+        "MO": {
+            "population": "5674825"
+        },
+        "MT": {
+            "population": "911667"
+        },
+        "NE": {
+            "population": "1728292"
+        },
+        "NV": {
+            "population": "2173791"
+        },
+        "NH": {
+            "population": "1269089"
+        },
+        "NJ": {
+            "population": "8552643"
+        },
+        "NM": {
+            "population": "1855309"
+        },
+        "NY": {
+            "population": "19137800"
+        },
+        "NC": {
+            "population": "8326201"
+        },
+        "ND": {
+            "population": "638168"
+        },
+        "OH": {
+            "population": "11407889"
+        },
+        "OK": {
+            "population": "3489080"
+        },
+        "OR": {
+            "population": "3513424"
+        },
+        "PA": {
+            "population": "12331031"
+        },
+        "RI": {
+            "population": "1065995"
+        },
+        "SC": {
+            "population": "4107795"
+        },
+        "SD": {
+            "population": "760020"
+        },
+        "TN": {
+            "population": "5795918"
+        },
+        "TX": {
+            "population": "21690325"
+        },
+        "UT": {
+            "population": "2324815"
+        },
+        "VT": {
+            "population": "615442"
+        },
+        "VA": {
+            "population": "7286873"
+        },
+        "WA": {
+            "population": "6052349"
+        },
+        "WV": {
+            "population": "1805414"
+        },
+        "WI": {
+            "population": "5445162"
+        },
+        "WY": {
+            "population": "500017"
+        }
+    },
+    "2003": {
+        "AL": {
+            "population": "4503491"
+        },
+        "AK": {
+            "population": "648414"
+        },
+        "AZ": {
+            "population": "5510364"
+        },
+        "AR": {
+            "population": "2724816"
+        },
+        "CA": {
+            "population": "35253159"
+        },
+        "CO": {
+            "population": "4528732"
+        },
+        "CT": {
+            "population": "3484336"
+        },
+        "DE": {
+            "population": "818003"
+        },
+        "DC": {
+            "population": "568502"
+        },
+        "FL": {
+            "population": "17004085"
+        },
+        "GA": {
+            "population": "8622793"
+        },
+        "HI": {
+            "population": "1251154"
+        },
+        "ID": {
+            "population": "1363380"
+        },
+        "IL": {
+            "population": "12556006"
+        },
+        "IN": {
+            "population": "6196638"
+        },
+        "IA": {
+            "population": "2941999"
+        },
+        "KS": {
+            "population": "2723004"
+        },
+        "KY": {
+            "population": "4117170"
+        },
+        "LA": {
+            "population": "4521042"
+        },
+        "ME": {
+            "population": "1306513"
+        },
+        "MD": {
+            "population": "5496269"
+        },
+        "MA": {
+            "population": "6422565"
+        },
+        "MI": {
+            "population": "10041152"
+        },
+        "MN": {
+            "population": "5053572"
+        },
+        "MS": {
+            "population": "2868312"
+        },
+        "MO": {
+            "population": "5709403"
+        },
+        "MT": {
+            "population": "919630"
+        },
+        "NE": {
+            "population": "1738643"
+        },
+        "NV": {
+            "population": "2248850"
+        },
+        "NH": {
+            "population": "1279840"
+        },
+        "NJ": {
+            "population": "8601402"
+        },
+        "NM": {
+            "population": "1877574"
+        },
+        "NY": {
+            "population": "19175939"
+        },
+        "NC": {
+            "population": "8422501"
+        },
+        "ND": {
+            "population": "638817"
+        },
+        "OH": {
+            "population": "11434788"
+        },
+        "OK": {
+            "population": "3504892"
+        },
+        "OR": {
+            "population": "3547376"
+        },
+        "PA": {
+            "population": "12374658"
+        },
+        "RI": {
+            "population": "1071342"
+        },
+        "SC": {
+            "population": "4150297"
+        },
+        "SD": {
+            "population": "763729"
+        },
+        "TN": {
+            "population": "5847812"
+        },
+        "TX": {
+            "population": "22030931"
+        },
+        "UT": {
+            "population": "2360137"
+        },
+        "VT": {
+            "population": "617858"
+        },
+        "VA": {
+            "population": "7366977"
+        },
+        "WA": {
+            "population": "6104115"
+        },
+        "WV": {
+            "population": "1812295"
+        },
+        "WI": {
+            "population": "5479203"
+        },
+        "WY": {
+            "population": "503453"
+        }
+    },
+    "2004": {
+        "AL": {
+            "population": "4530729"
+        },
+        "AK": {
+            "population": "659286"
+        },
+        "AZ": {
+            "population": "5652404"
+        },
+        "AR": {
+            "population": "2749686"
+        },
+        "CA": {
+            "population": "35574576"
+        },
+        "CO": {
+            "population": "4575013"
+        },
+        "CT": {
+            "population": "3496094"
+        },
+        "DE": {
+            "population": "830803"
+        },
+        "DC": {
+            "population": "567754"
+        },
+        "FL": {
+            "population": "17415318"
+        },
+        "GA": {
+            "population": "8769252"
+        },
+        "HI": {
+            "population": "1273569"
+        },
+        "ID": {
+            "population": "1391802"
+        },
+        "IL": {
+            "population": "12589773"
+        },
+        "IN": {
+            "population": "6233007"
+        },
+        "IA": {
+            "population": "2953635"
+        },
+        "KS": {
+            "population": "2734373"
+        },
+        "KY": {
+            "population": "4146101"
+        },
+        "LA": {
+            "population": "4552238"
+        },
+        "ME": {
+            "population": "1313688"
+        },
+        "MD": {
+            "population": "5546935"
+        },
+        "MA": {
+            "population": "6412281"
+        },
+        "MI": {
+            "population": "10055315"
+        },
+        "MN": {
+            "population": "5087713"
+        },
+        "MS": {
+            "population": "2889010"
+        },
+        "MO": {
+            "population": "5747741"
+        },
+        "MT": {
+            "population": "930009"
+        },
+        "NE": {
+            "population": "1749370"
+        },
+        "NV": {
+            "population": "2346222"
+        },
+        "NH": {
+            "population": "1290121"
+        },
+        "NJ": {
+            "population": "8634561"
+        },
+        "NM": {
+            "population": "1903808"
+        },
+        "NY": {
+            "population": "19171567"
+        },
+        "NC": {
+            "population": "8553152"
+        },
+        "ND": {
+            "population": "644705"
+        },
+        "OH": {
+            "population": "11452251"
+        },
+        "OK": {
+            "population": "3525233"
+        },
+        "OR": {
+            "population": "3569463"
+        },
+        "PA": {
+            "population": "12410722"
+        },
+        "RI": {
+            "population": "1074579"
+        },
+        "SC": {
+            "population": "4210921"
+        },
+        "SD": {
+            "population": "770396"
+        },
+        "TN": {
+            "population": "5910809"
+        },
+        "TX": {
+            "population": "22394023"
+        },
+        "UT": {
+            "population": "2401580"
+        },
+        "VT": {
+            "population": "619920"
+        },
+        "VA": {
+            "population": "7475575"
+        },
+        "WA": {
+            "population": "6178645"
+        },
+        "WV": {
+            "population": "1816438"
+        },
+        "WI": {
+            "population": "5514026"
+        },
+        "WY": {
+            "population": "509106"
+        }
+    },
+    "2005": {
+        "AL": {
+            "population": "4569805"
+        },
+        "AK": {
+            "population": "666946"
+        },
+        "AZ": {
+            "population": "5839077"
+        },
+        "AR": {
+            "population": "2781097"
+        },
+        "CA": {
+            "population": "35827943"
+        },
+        "CO": {
+            "population": "4631888"
+        },
+        "CT": {
+            "population": "3506956"
+        },
+        "DE": {
+            "population": "845150"
+        },
+        "DC": {
+            "population": "567136"
+        },
+        "FL": {
+            "population": "17842038"
+        },
+        "GA": {
+            "population": "8925922"
+        },
+        "HI": {
+            "population": "1292729"
+        },
+        "ID": {
+            "population": "1428241"
+        },
+        "IL": {
+            "population": "12609903"
+        },
+        "IN": {
+            "population": "6278616"
+        },
+        "IA": {
+            "population": "2964454"
+        },
+        "KS": {
+            "population": "2745299"
+        },
+        "KY": {
+            "population": "4182742"
+        },
+        "LA": {
+            "population": "4576628"
+        },
+        "ME": {
+            "population": "1318787"
+        },
+        "MD": {
+            "population": "5592379"
+        },
+        "MA": {
+            "population": "6403290"
+        },
+        "MI": {
+            "population": "10051137"
+        },
+        "MN": {
+            "population": "5119598"
+        },
+        "MS": {
+            "population": "2905943"
+        },
+        "MO": {
+            "population": "5790300"
+        },
+        "MT": {
+            "population": "940102"
+        },
+        "NE": {
+            "population": "1761497"
+        },
+        "NV": {
+            "population": "2432143"
+        },
+        "NH": {
+            "population": "1298492"
+        },
+        "NJ": {
+            "population": "8651974"
+        },
+        "NM": {
+            "population": "1932274"
+        },
+        "NY": {
+            "population": "19132610"
+        },
+        "NC": {
+            "population": "8705407"
+        },
+        "ND": {
+            "population": "646089"
+        },
+        "OH": {
+            "population": "11463320"
+        },
+        "OK": {
+            "population": "3548597"
+        },
+        "OR": {
+            "population": "3613202"
+        },
+        "PA": {
+            "population": "12449990"
+        },
+        "RI": {
+            "population": "1067916"
+        },
+        "SC": {
+            "population": "4270150"
+        },
+        "SD": {
+            "population": "775493"
+        },
+        "TN": {
+            "population": "5991057"
+        },
+        "TX": {
+            "population": "22778123"
+        },
+        "UT": {
+            "population": "2457719"
+        },
+        "VT": {
+            "population": "621215"
+        },
+        "VA": {
+            "population": "7577105"
+        },
+        "WA": {
+            "population": "6257305"
+        },
+        "WV": {
+            "population": "1820492"
+        },
+        "WI": {
+            "population": "5546166"
+        },
+        "WY": {
+            "population": "514157"
+        }
+    },
+    "2006": {
+        "AL": {
+            "population": "4628981"
+        },
+        "AK": {
+            "population": "675302"
+        },
+        "AZ": {
+            "population": "6029141"
+        },
+        "AR": {
+            "population": "2821761"
+        },
+        "CA": {
+            "population": "36021202"
+        },
+        "CO": {
+            "population": "4720423"
+        },
+        "CT": {
+            "population": "3517460"
+        },
+        "DE": {
+            "population": "859268"
+        },
+        "DC": {
+            "population": "570681"
+        },
+        "FL": {
+            "population": "18166990"
+        },
+        "GA": {
+            "population": "9155813"
+        },
+        "HI": {
+            "population": "1309731"
+        },
+        "ID": {
+            "population": "1468669"
+        },
+        "IL": {
+            "population": "12643955"
+        },
+        "IN": {
+            "population": "6332669"
+        },
+        "IA": {
+            "population": "2982644"
+        },
+        "KS": {
+            "population": "2762931"
+        },
+        "KY": {
+            "population": "4219239"
+        },
+        "LA": {
+            "population": "4302665"
+        },
+        "ME": {
+            "population": "1323619"
+        },
+        "MD": {
+            "population": "5627367"
+        },
+        "MA": {
+            "population": "6410084"
+        },
+        "MI": {
+            "population": "10036081"
+        },
+        "MN": {
+            "population": "5163555"
+        },
+        "MS": {
+            "population": "2904978"
+        },
+        "MO": {
+            "population": "5842704"
+        },
+        "MT": {
+            "population": "952692"
+        },
+        "NE": {
+            "population": "1772693"
+        },
+        "NV": {
+            "population": "2522658"
+        },
+        "NH": {
+            "population": "1308389"
+        },
+        "NJ": {
+            "population": "8661679"
+        },
+        "NM": {
+            "population": "1962137"
+        },
+        "NY": {
+            "population": "19104631"
+        },
+        "NC": {
+            "population": "8917270"
+        },
+        "ND": {
+            "population": "649422"
+        },
+        "OH": {
+            "population": "11481213"
+        },
+        "OK": {
+            "population": "3594090"
+        },
+        "OR": {
+            "population": "3670883"
+        },
+        "PA": {
+            "population": "12510809"
+        },
+        "RI": {
+            "population": "1063096"
+        },
+        "SC": {
+            "population": "4357847"
+        },
+        "SD": {
+            "population": "783033"
+        },
+        "TN": {
+            "population": "6088766"
+        },
+        "TX": {
+            "population": "23359580"
+        },
+        "UT": {
+            "population": "2525507"
+        },
+        "VT": {
+            "population": "622892"
+        },
+        "VA": {
+            "population": "7673725"
+        },
+        "WA": {
+            "population": "6370753"
+        },
+        "WV": {
+            "population": "1827912"
+        },
+        "WI": {
+            "population": "5577655"
+        },
+        "WY": {
+            "population": "522667"
+        }
+    },
+    "2007": {
+        "AL": {
+            "population": "4672840"
+        },
+        "AK": {
+            "population": "680300"
+        },
+        "AZ": {
+            "population": "6167681"
+        },
+        "AR": {
+            "population": "2848650"
+        },
+        "CA": {
+            "population": "36250311"
+        },
+        "CO": {
+            "population": "4803868"
+        },
+        "CT": {
+            "population": "3527270"
+        },
+        "DE": {
+            "population": "871749"
+        },
+        "DC": {
+            "population": "574404"
+        },
+        "FL": {
+            "population": "18367842"
+        },
+        "GA": {
+            "population": "9349988"
+        },
+        "HI": {
+            "population": "1315675"
+        },
+        "ID": {
+            "population": "1505105"
+        },
+        "IL": {
+            "population": "12695866"
+        },
+        "IN": {
+            "population": "6379599"
+        },
+        "IA": {
+            "population": "2999212"
+        },
+        "KS": {
+            "population": "2783785"
+        },
+        "KY": {
+            "population": "4256672"
+        },
+        "LA": {
+            "population": "4375581"
+        },
+        "ME": {
+            "population": "1327040"
+        },
+        "MD": {
+            "population": "5653408"
+        },
+        "MA": {
+            "population": "6431559"
+        },
+        "MI": {
+            "population": "10001284"
+        },
+        "MN": {
+            "population": "5207203"
+        },
+        "MS": {
+            "population": "2928350"
+        },
+        "MO": {
+            "population": "5887612"
+        },
+        "MT": {
+            "population": "964706"
+        },
+        "NE": {
+            "population": "1783440"
+        },
+        "NV": {
+            "population": "2601072"
+        },
+        "NH": {
+            "population": "1312540"
+        },
+        "NJ": {
+            "population": "8677885"
+        },
+        "NM": {
+            "population": "1990070"
+        },
+        "NY": {
+            "population": "19132335"
+        },
+        "NC": {
+            "population": "9118037"
+        },
+        "ND": {
+            "population": "652822"
+        },
+        "OH": {
+            "population": "11500468"
+        },
+        "OK": {
+            "population": "3634349"
+        },
+        "OR": {
+            "population": "3722417"
+        },
+        "PA": {
+            "population": "12563937"
+        },
+        "RI": {
+            "population": "1057315"
+        },
+        "SC": {
+            "population": "4444110"
+        },
+        "SD": {
+            "population": "791623"
+        },
+        "TN": {
+            "population": "6175727"
+        },
+        "TX": {
+            "population": "23831983"
+        },
+        "UT": {
+            "population": "2597746"
+        },
+        "VT": {
+            "population": "623481"
+        },
+        "VA": {
+            "population": "7751000"
+        },
+        "WA": {
+            "population": "6461587"
+        },
+        "WV": {
+            "population": "1834052"
+        },
+        "WI": {
+            "population": "5610775"
+        },
+        "WY": {
+            "population": "534876"
+        }
+    },
+    "2008": {
+        "AL": {
+            "population": "4718206"
+        },
+        "AK": {
+            "population": "687455"
+        },
+        "AZ": {
+            "population": "6280362"
+        },
+        "AR": {
+            "population": "2874554"
+        },
+        "CA": {
+            "population": "36604337"
+        },
+        "CO": {
+            "population": "4889730"
+        },
+        "CT": {
+            "population": "3545579"
+        },
+        "DE": {
+            "population": "883874"
+        },
+        "DC": {
+            "population": "580236"
+        },
+        "FL": {
+            "population": "18527305"
+        },
+        "GA": {
+            "population": "9504843"
+        },
+        "HI": {
+            "population": "1332213"
+        },
+        "ID": {
+            "population": "1534320"
+        },
+        "IL": {
+            "population": "12747038"
+        },
+        "IN": {
+            "population": "6424806"
+        },
+        "IA": {
+            "population": "3016734"
+        },
+        "KS": {
+            "population": "2808076"
+        },
+        "KY": {
+            "population": "4289878"
+        },
+        "LA": {
+            "population": "4435586"
+        },
+        "ME": {
+            "population": "1330509"
+        },
+        "MD": {
+            "population": "5684965"
+        },
+        "MA": {
+            "population": "6468967"
+        },
+        "MI": {
+            "population": "9946889"
+        },
+        "MN": {
+            "population": "5247018"
+        },
+        "MS": {
+            "population": "2947806"
+        },
+        "MO": {
+            "population": "5923916"
+        },
+        "MT": {
+            "population": "976415"
+        },
+        "NE": {
+            "population": "1796378"
+        },
+        "NV": {
+            "population": "2653630"
+        },
+        "NH": {
+            "population": "1315906"
+        },
+        "NJ": {
+            "population": "8711090"
+        },
+        "NM": {
+            "population": "2010662"
+        },
+        "NY": {
+            "population": "19212436"
+        },
+        "NC": {
+            "population": "9309449"
+        },
+        "ND": {
+            "population": "657569"
+        },
+        "OH": {
+            "population": "11515391"
+        },
+        "OK": {
+            "population": "3668976"
+        },
+        "OR": {
+            "population": "3768748"
+        },
+        "PA": {
+            "population": "12612285"
+        },
+        "RI": {
+            "population": "1055003"
+        },
+        "SC": {
+            "population": "4528996"
+        },
+        "SD": {
+            "population": "799124"
+        },
+        "TN": {
+            "population": "6247411"
+        },
+        "TX": {
+            "population": "24309039"
+        },
+        "UT": {
+            "population": "2663029"
+        },
+        "VT": {
+            "population": "624151"
+        },
+        "VA": {
+            "population": "7833496"
+        },
+        "WA": {
+            "population": "6562231"
+        },
+        "WV": {
+            "population": "1840310"
+        },
+        "WI": {
+            "population": "5640996"
+        },
+        "WY": {
+            "population": "546043"
+        }
+    },
+    "2009": {
+        "AL": {
+            "population": "4757938"
+        },
+        "AK": {
+            "population": "698895"
+        },
+        "AZ": {
+            "population": "6343154"
+        },
+        "AR": {
+            "population": "2896843"
+        },
+        "CA": {
+            "population": "36961229"
+        },
+        "CO": {
+            "population": "4972195"
+        },
+        "CT": {
+            "population": "3561807"
+        },
+        "DE": {
+            "population": "891730"
+        },
+        "DC": {
+            "population": "592228"
+        },
+        "FL": {
+            "population": "18652644"
+        },
+        "GA": {
+            "population": "9620846"
+        },
+        "HI": {
+            "population": "1346717"
+        },
+        "ID": {
+            "population": "1554439"
+        },
+        "IL": {
+            "population": "12796778"
+        },
+        "IN": {
+            "population": "6459325"
+        },
+        "IA": {
+            "population": "3032870"
+        },
+        "KS": {
+            "population": "2832704"
+        },
+        "KY": {
+            "population": "4317074"
+        },
+        "LA": {
+            "population": "4491648"
+        },
+        "ME": {
+            "population": "1329590"
+        },
+        "MD": {
+            "population": "5730388"
+        },
+        "MA": {
+            "population": "6517613"
+        },
+        "MI": {
+            "population": "9901591"
+        },
+        "MN": {
+            "population": "5281203"
+        },
+        "MS": {
+            "population": "2958774"
+        },
+        "MO": {
+            "population": "5961088"
+        },
+        "MT": {
+            "population": "983982"
+        },
+        "NE": {
+            "population": "1812683"
+        },
+        "NV": {
+            "population": "2684665"
+        },
+        "NH": {
+            "population": "1316102"
+        },
+        "NJ": {
+            "population": "8755602"
+        },
+        "NM": {
+            "population": "2036802"
+        },
+        "NY": {
+            "population": "19307066"
+        },
+        "NC": {
+            "population": "9449566"
+        },
+        "ND": {
+            "population": "664968"
+        },
+        "OH": {
+            "population": "11528896"
+        },
+        "OK": {
+            "population": "3717572"
+        },
+        "OR": {
+            "population": "3808600"
+        },
+        "PA": {
+            "population": "12666858"
+        },
+        "RI": {
+            "population": "1053646"
+        },
+        "SC": {
+            "population": "4589872"
+        },
+        "SD": {
+            "population": "807067"
+        },
+        "TN": {
+            "population": "6306019"
+        },
+        "TX": {
+            "population": "24801761"
+        },
+        "UT": {
+            "population": "2723421"
+        },
+        "VT": {
+            "population": "624817"
+        },
+        "VA": {
+            "population": "7925937"
+        },
+        "WA": {
+            "population": "6667426"
+        },
+        "WV": {
+            "population": "1847775"
+        },
+        "WI": {
+            "population": "5669264"
+        },
+        "WY": {
+            "population": "559851"
+        }
+    },
+    "2010": {
+        "AL": {
+            "population": "4785298"
+        },
+        "AK": {
+            "population": "713985"
+        },
+        "AZ": {
+            "population": "6413737"
+        },
+        "AR": {
+            "population": "2921606"
+        },
+        "CA": {
+            "population": "37349363"
+        },
+        "CO": {
+            "population": "5049071"
+        },
+        "CT": {
+            "population": "3577073"
+        },
+        "DE": {
+            "population": "899769"
+        },
+        "DC": {
+            "population": "604453"
+        },
+        "FL": {
+            "population": "18843326"
+        },
+        "GA": {
+            "population": "9712587"
+        },
+        "HI": {
+            "population": "1363621"
+        },
+        "ID": {
+            "population": "1571450"
+        },
+        "IL": {
+            "population": "12843166"
+        },
+        "IN": {
+            "population": "6490621"
+        },
+        "IA": {
+            "population": "3049883"
+        },
+        "KS": {
+            "population": "2859169"
+        },
+        "KY": {
+            "population": "4346266"
+        },
+        "LA": {
+            "population": "4544228"
+        },
+        "ME": {
+            "population": "1327567"
+        },
+        "MD": {
+            "population": "5785982"
+        },
+        "MA": {
+            "population": "6557254"
+        },
+        "MI": {
+            "population": "9877574"
+        },
+        "MN": {
+            "population": "5310584"
+        },
+        "MS": {
+            "population": "2970036"
+        },
+        "MO": {
+            "population": "5996231"
+        },
+        "MT": {
+            "population": "990898"
+        },
+        "NE": {
+            "population": "1830429"
+        },
+        "NV": {
+            "population": "2704642"
+        },
+        "NH": {
+            "population": "1316759"
+        },
+        "NJ": {
+            "population": "8801624"
+        },
+        "NM": {
+            "population": "2065932"
+        },
+        "NY": {
+            "population": "19392283"
+        },
+        "NC": {
+            "population": "9561558"
+        },
+        "ND": {
+            "population": "674499"
+        },
+        "OH": {
+            "population": "11536182"
+        },
+        "OK": {
+            "population": "3761702"
+        },
+        "OR": {
+            "population": "3838957"
+        },
+        "PA": {
+            "population": "12709630"
+        },
+        "RI": {
+            "population": "1052886"
+        },
+        "SC": {
+            "population": "4636312"
+        },
+        "SD": {
+            "population": "816463"
+        },
+        "TN": {
+            "population": "6356897"
+        },
+        "TX": {
+            "population": "25257114"
+        },
+        "UT": {
+            "population": "2776469"
+        },
+        "VT": {
+            "population": "625960"
+        },
+        "VA": {
+            "population": "8024617"
+        },
+        "WA": {
+            "population": "6744496"
+        },
+        "WV": {
+            "population": "1853973"
+        },
+        "WI": {
+            "population": "5691047"
+        },
+        "WY": {
+            "population": "564460"
+        }
+    },
+    "AK": {
+        "fips": "02",
+        "name": "Alaska",
+        "scale": 0.7,
+        "center": {
+            "latitude": 64,
+            "longitude": -155
+        }
+    },
+    "AL": {
+        "fips": "01",
+        "name": "Alabama",
+        "scale": 5.2,
+        "center": {
+            "latitude": 33.6,
+            "longitude": -86.9023
+        }
+    },
+    "AR": {
+        "fips": "05",
+        "name": "Arkansas",
+        "scale": 7,
+        "center": {
+            "latitude": 35.8,
+            "longitude": -92.3
+        }
+    },
+    "AZ": {
+        "fips": "04",
+        "name": "Arizona",
+        "scale": 4.5,
+        "center": {
+            "latitude": 35.2,
+            "longitude": -112.0937
+        }
+    },
+    "CA": {
+        "fips": "06",
+        "name": "California",
+        "scale": 2.5,
+        "center": {
+            "latitude": 38.4,
+            "longitude": -121
+        }
+    },
+    "CO": {
+        "fips": "08",
+        "name": "Colorado",
+        "scale": 5.6,
+        "center": {
+            "latitude": 40,
+            "longitude": -105.7821
+        }
+    },
+    "CT": {
+        "fips": "09",
+        "name": "Connecticut",
+        "scale": 19,
+        "center": {
+            "latitude": 42.5,
+            "longitude": -72.8
+        }
+    },
+    "DC": {
+        "fips": "11",
+        "name": "Washington, D.C.",
+        "scale": 110,
+        "center": {
+            "latitude": 39.895,
+            "longitude": -77.05
+        }
+    },
+    "DE": {
+        "fips": "10",
+        "name": "Delaware",
+        "scale": 16,
+        "center": {
+            "latitude": 40.14,
+            "longitude": -75.42
+        }
+    },
+    "FL": {
+        "fips": "12",
+        "name": "Florida",
+        "scale": 4,
+        "center": {
+            "latitude": 28.7,
+            "longitude": -84
+        }
+    },
+    "GA": {
+        "fips": "13",
+        "name": "Georgia",
+        "scale": 5.4,
+        "center": {
+            "latitude": 33.7,
+            "longitude": -83.9
+        }
+    },
+    "HI": {
+        "fips": "15",
+        "name": "Hawaii",
+        "scale": 8.5,
+        "center": {
+            "latitude": 21.6,
+            "longitude": -157.5
+        }
+    },
+    "IA": {
+        "fips": "19",
+        "name": "Iowa",
+        "scale": 7.1,
+        "center": {
+            "latitude": 42.95,
+            "longitude": -93.5
+        }
+    },
+    "ID": {
+        "fips": "16",
+        "name": "Idaho",
+        "scale": 3,
+        "center": {
+            "latitude": 46.52,
+            "longitude": -115
+        }
+    },
+    "IL": {
+        "fips": "17",
+        "name": "Illinois",
+        "scale": 4,
+        "center": {
+            "latitude": 40.8,
+            "longitude": -89.5
+        }
+    },
+    "IN": {
+        "fips": "18",
+        "name": "Indiana",
+        "scale": 5.5,
+        "center": {
+            "latitude": 40.75,
+            "longitude": -86.6
+        }
+    },
+    "KS": {
+        "fips": "20",
+        "name": "Kansas",
+        "scale": 7.2,
+        "center": {
+            "latitude": 39.5,
+            "longitude": -98.31
+        }
+    },
+    "KY": {
+        "fips": "21",
+        "name": "Kentucky",
+        "scale": 7.2,
+        "center": {
+            "latitude": 38.7,
+            "longitude": -85.75
+        }
+    },
+    "LA": {
+        "fips": "22",
+        "name": "Louisiana",
+        "scale": 6,
+        "center": {
+            "latitude": 32,
+            "longitude": -92
+        }
+    },
+    "MA": {
+        "fips": "25",
+        "name": "Massachusetts",
+        "scale": 13,
+        "center": {
+            "latitude": 43.03,
+            "longitude": -71.6
+        }
+    },
+    "MD": {
+        "fips": "24",
+        "name": "Maryland",
+        "scale": 12,
+        "center": {
+            "latitude": 39.8,
+            "longitude": -77.21
+        }
+    },
+    "ME": {
+        "fips": "23",
+        "name": "Maine",
+        "scale": 4.6,
+        "center": {
+            "latitude": 46.2,
+            "longitude": -69.4455
+        }
+    },
+    "MI": {
+        "fips": "26",
+        "name": "Michigan",
+        "scale": 3.1,
+        "center": {
+            "latitude": 46,
+            "longitude": -86.5
+        }
+    },
+    "MN": {
+        "fips": "27",
+        "name": "Minnesota",
+        "scale": 3.6,
+        "center": {
+            "latitude": 47.5,
+            "longitude": -94
+        }
+    },
+    "MO": {
+        "fips": "29",
+        "name": "Missouri",
+        "scale": 5.1,
+        "center": {
+            "latitude": 39.32,
+            "longitude": -92.5
+        }
+    },
+    "MS": {
+        "fips": "28",
+        "name": "Mississippi",
+        "scale": 5.2,
+        "center": {
+            "latitude": 33.6,
+            "longitude": -90
+        }
+    },
+    "MT": {
+        "fips": "30",
+        "name": "Montana",
+        "scale": 4.2,
+        "center": {
+            "latitude": 47.7,
+            "longitude": -110
+        }
+    },
+    "NC": {
+        "fips": "37",
+        "name": "North Carolina",
+        "scale": 6.2,
+        "center": {
+            "latitude": 36.2,
+            "longitude": -79.85
+        }
+    },
+    "ND": {
+        "fips": "38",
+        "name": "North Dakota",
+        "scale": 6,
+        "center": {
+            "latitude": 48.5,
+            "longitude": -100.4
+        }
+    },
+    "NE": {
+        "fips": "31",
+        "name": "Nebraska",
+        "scale": 6.3,
+        "center": {
+            "latitude": 42.5,
+            "longitude": -99.7
+        }
+    },
+    "NH": {
+        "fips": "33",
+        "name": "New Hampshire",
+        "scale": 8,
+        "center": {
+            "latitude": 45,
+            "longitude": -71.7
+        }
+    },
+    "NJ": {
+        "fips": "34",
+        "name": "New Jersey",
+        "scale": 8.6,
+        "center": {
+            "latitude": 41.05,
+            "longitude": -74.8
+        }
+    },
+    "NM": {
+        "fips": "35",
+        "name": "New Mexico",
+        "scale": 4.3,
+        "center": {
+            "latitude": 35.2,
+            "longitude": -106.5
+        }
+    },
+    "NV": {
+        "fips": "32",
+        "name": "Nevada",
+        "scale": 3.3,
+        "center": {
+            "latitude": 39.55,
+            "longitude": -117
+        }
+    },
+    "NY": {
+        "fips": "36",
+        "name": "New York",
+        "scale": 4.8,
+        "center": {
+            "latitude": 43.8,
+            "longitude": -76
+        }
+    },
+    "OH": {
+        "fips": "39",
+        "name": "Ohio",
+        "scale": 5.5,
+        "center": {
+            "latitude": 41.3,
+            "longitude": -83
+        }
+    },
+    "OK": {
+        "fips": "40",
+        "name": "Oklahoma",
+        "scale": 6.3,
+        "center": {
+            "latitude": 36.5,
+            "longitude": -98.7
+        }
+    },
+    "OR": {
+        "fips": "41",
+        "name": "Oregon",
+        "scale": 5,
+        "center": {
+            "latitude": 45.15,
+            "longitude": -120.5
+        }
+    },
+    "PA": {
+        "fips": "42",
+        "name": "Pennsylvania",
+        "scale": 8,
+        "center": {
+            "latitude": 42.1,
+            "longitude": -77.6
+        }
+    },
+    "RI": {
+        "fips": "44",
+        "name": "Rhode Island",
+        "scale": 24,
+        "center": {
+            "latitude": 42.55,
+            "longitude": -71.6
+        }
+    },
+    "SC": {
+        "fips": "45",
+        "name": "South Carolina",
+        "scale": 7.3,
+        "center": {
+            "latitude": 34.6,
+            "longitude": -81.2
+        }
+    },
+    "SD": {
+        "fips": "46",
+        "name": "South Dakota",
+        "scale": 6,
+        "center": {
+            "latitude": 45.3,
+            "longitude": -100.2
+        }
+    },
+    "TN": {
+        "fips": "47",
+        "name": "Tennessee",
+        "scale": 6.3,
+        "center": {
+            "latitude": 36.8,
+            "longitude": -86
+        }
+    },
+    "TX": {
+        "fips": "48",
+        "name": "Texas",
+        "scale": 2.5,
+        "center": {
+            "latitude": 32.3,
+            "longitude": -99.9
+        }
+    },
+    "UT": {
+        "fips": "49",
+        "name": "Utah",
+        "scale": 4.5,
+        "center": {
+            "latitude": 40.5,
+            "longitude": -112
+        }
+    },
+    "VA": {
+        "fips": "51",
+        "name": "Virginia",
+        "scale": 6.5,
+        "center": {
+            "latitude": 38.9,
+            "longitude": -79.4
+        }
+    },
+    "VT": {
+        "fips": "50",
+        "name": "Vermont",
+        "scale": 9,
+        "center": {
+            "latitude": 44.9,
+            "longitude": -72.6
+        }
+    },
+    "WA": {
+        "fips": "53",
+        "name": "Washington",
+        "scale": 5.9,
+        "center": {
+            "latitude": 48.3,
+            "longitude": -120.8
+        }
+    },
+    "WI": {
+        "fips": "55",
+        "name": "Wisconsin",
+        "scale": 4.45,
+        "center": {
+            "latitude": 45.9,
+            "longitude": -90
+        }
+    },
+    "WV": {
+        "fips": "54",
+        "name": "West Virginia",
+        "scale": 6.7,
+        "center": {
+            "latitude": 39.9,
+            "longitude": -80.2
+        }
+    },
+    "WY": {
+        "fips": "56",
+        "name": "Wyoming",
+        "scale": 5.5,
+        "center": {
+            "latitude": 44,
+            "longitude": -107.2
+        }
+    }
+}

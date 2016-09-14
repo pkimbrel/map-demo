@@ -24,7 +24,13 @@ function getFillKey(population) {
     return fillKey;
 }
 
-$.get('/data/counties.population.json', function (population) {
+var year = $.QueryString.year;
+if (year === undefined) {
+    year = 2010
+}
+
+$.get('/data/counties.population.range.json', function (allPopulation) {
+    var population = allPopulation[year];
     for (county in population) {
         // Add fillKey because that's visual data
         population[county].fillKey = getFillKey(population[county].population);

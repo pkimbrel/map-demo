@@ -1,0 +1,54 @@
+#!/usr/local/bin/node
+//#!/Users/pkimbrel/.nvm/versions/node/v6.2.1/bin/node
+
+var fs = require('fs');
+var _ = require('underscore');
+var csvjson = require("csvjson");
+
+var stateData = JSON.parse(fs.readFileSync('public/data/states.info.json', 'utf8'));
+var countyData2000 = {
+    yearRange: [2000, 2010],
+    data: csvjson.toObject(fs.readFileSync('raw/data/CO-EST00INT-TOT.csv', 'utf8'), {delimiter: ','})
+};
+
+// Build a reverse FIPS lookup table (to help find the state from a FIPS number)
+var fipsLookup = {};
+_.each(stateData, function (state, key) {
+    fipsLookup[Number(state.fips)] = key;
+});
+
+// I'm lazy, so starting with the lovingly handcrafted state data
+// which follows the necessary data format.  From there I simply add
+// the population data along side the FIPS, center point, and zoom level.
+
+// The county level is a straight mapping.  Start with an empty list.
+var statePopluationData = stateData;
+var countyPopluationData = {};
+
+function processRange(countyData) {
+    _.each(countyData.data, function(county) {
+        for (var year = countyData.yearRange[0]; year <= countyData.yearRange[1]; year++) {
+            if (countyPopluationData[year] === undefined) {
+                countyPopluationData[year] = {};
+                statePopluationData[year] = {};
+            }
+
+            if (county.COUNTY == 0) {
+                var state = fipsLookup[county.STATE];
+                statePopluationData[year][state] = {
+                    "population": county["POPESTIMATE" + year]
+                };
+            } else {
+                var GEOID = ("0" + county.STATE).slice (-2) + ("00" + county.COUNTY).slice (-3);
+                countyPopluationData[year][GEOID] = {
+                    "population": county["POPESTIMATE" + year]
+                };
+            }
+        }
+
+    });
+}
+
+fs.writeFileSync('public/data/counties.population.range.json', JSON.stringify(countyPopluationData, null, 4), 'utf8');
+fs.writeFileSync('public/data/state.population.range.json', JSON.stringify(statePopluationData, null, 4), 'utf8');
+
