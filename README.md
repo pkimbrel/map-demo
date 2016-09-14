@@ -6,6 +6,8 @@ Where to get data?
 
 Why, http://census.gov of course!
 
+Go Geography -> Maps & Data -> TIGER Products -> TIGER/Line Shape Files
+
 But it's not that easy.  The population data comes with topography data, but it's
 not topography data you want to show.  It's "real" boundries which doesn't include 
 lake bounderies.  And it doesn't have a decent mapping between states and counties.
